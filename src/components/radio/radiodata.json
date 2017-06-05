@@ -1,0 +1,156 @@
+{
+	"music":[
+		{
+			"name":"今日推荐",
+			"src":"../../static/musiclist/1.jpg",
+			"src1":"../../static/musicimg/1.png",
+			"desc":"吉他|气疯的日子流撒飘飘心情",
+			"user":"秋风",
+			"collect":14633,
+			"comment":434,
+			"share"	:80,
+			"musiclist":[
+				{
+					"name":"咖喱咖喱",
+					"user":"牛奶咖啡",
+					"special":"电视剧《欢乐颂2》插曲",
+					"sq" : "true",
+					"movie":"true",
+					"id":"476987525"
+				},
+				{
+					"name":"我们",
+					"user":"刘涛",
+					"special":"电视剧《欢乐颂2》片尾主题曲",
+					"sq" : "true",
+					"movie":"false",
+					"id":"476630320"
+				},
+				{
+					"name":"凉凉",
+					"user":"张碧晨",
+					"special":"我想和你唱 第二季 第4期",
+					"sq" : "true",
+					"movie":"false",
+					"id":"479408220"
+				},
+				{
+					"name":"桃花诺",
+					"user":"G.E.M.邓紫棋",
+					"special":"电视剧《上古情歌》片尾曲",
+					"sq" : "true",
+					"movie":"true",
+					"id":"480579393"
+				},
+				{
+					"name":"我一定会爱上你",
+					"user":"谢春花",
+					"special":"从现在到开始",
+					"sq" : "false",
+					"movie":"true",
+					"id":"479219330"
+				}
+			]
+		},
+		{
+			"name":"今日更新",
+			"src":"../../static/musiclist/2.jpg",
+			"src1":"../../static/musicimg/2.png",
+			"desc":"吉他|气疯的日子流撒飘飘心情",
+			"user":"秋风",
+			"collect":14620,
+			"comment":402,
+			"share"	:90,
+			"musiclist":[
+				{
+					"name":"嗯",
+					"user":"李荣浩",
+					"special":"写给我第一个喜欢的女孩的歌（feat.洛少爷）",
+					"sq" : "true",
+					"movie":"true",
+					"id":"479223381"
+				},
+				{
+					"name":"郭源潮",
+					"user":"宋冬野",
+					"special":"高尚",
+					"sq" : "true",
+					"movie":"true",
+					"id":"477251491"
+				},
+				{
+					"name":"其实都没有",
+					"user":"杨宗纬",
+					"special":"我想和你唱 第二季 第4期",
+					"sq" : "true",
+					"movie":"true",
+					"id":"479408221"
+				}
+			]
+		},
+		{
+			"name":"今日动听",
+			"src":"../../static/musiclist/5.jpg",
+			"src1":"../../static/musicimg/5.png",
+			"desc":"吉他|气疯的日子流撒飘飘心情",
+			"user":"秋风",
+			"collect":24633,
+			"comment":344,
+			"share"	:180,
+			"musiclist":[
+				{
+					"name":"最初的记忆",
+					"user":"徐佳莹",
+					"special":"电视剧《夏至未至》片尾曲",
+					"sq" : "true",
+					"movie":"true",
+					"id":"479979440"
+				},
+				{
+					"name":"阿楚姑娘",
+					"user":"袁娅维",
+					"special":"我想和你唱 第二季 第5期",
+					"sq" : "true",
+					"movie":"true",
+					"id":"480575331"
+				},
+				{
+					"name":"有个人",
+					"user":"戚薇",
+					"special":"电视剧《繁星四月》主题曲",
+					"sq" : "true",
+					"movie":"true",
+					"id":"475279356"
+				}
+			]
+		},
+		{
+			"name":"今日人气",
+			"src":"../../static/musiclist/8.jpg",
+			"src1":"../../static/musicimg/8.png",
+			"desc":"吉他|气疯的日子流撒飘飘心情",
+			"user":"秋风",
+			"collect":14633,
+			"comment":434,
+			"share"	:80,
+			"musiclist":[
+				{
+					"name":"真实感",
+					"user":"Fine乐团",
+					"special":"最新摇滚乐团",
+					"sq" : "true",
+					"movie":"true",
+					"id":"478229655"
+				},
+				{
+					"name":"一人饮酒醉",
+					"user":"大鹏",
+					"special":"电影《父子雄兵》宣传曲",
+					"sq" : "true",
+					"movie":"true",
+					"id":"479403027"
+				}
+			]
+		}
+	]
+}
